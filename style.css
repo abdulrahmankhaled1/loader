@@ -1,0 +1,48 @@
+body {
+    background-color: #192b40;
+}
+
+.student {
+    width: 400px;
+    margin: 4% auto;
+    position: relative;
+}
+
+.srvc_icon {
+    width: 29px;
+    position: absolute;
+}
+
+.openBookIcon {
+    top: 20%;
+    right: 0;
+}
+
+.st0 {
+    fill: #026BB0;
+}
+
+.st1 {
+    fill: #F5AA00;
+}
+
+.st2 {
+    fill: #E51D74;
+}
+
+.st3 {
+    fill: #78B517;
+}
+
+svg .st0 {
+    margin-left: 400px;
+}
+
+#Layer_1 {
+    width: 200px;
+    top: 25%;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+}
